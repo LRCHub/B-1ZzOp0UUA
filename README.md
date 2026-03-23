@@ -1,4 +1,4 @@
-# 澤野弘之 – Call of Silence
+# Hiroyuki SAWANO – Call of Silence
 
 > **歌詞登録ステータス：同期歌詞あり**
 
@@ -12,7 +12,6 @@
 [01:51.98] Must be ragged but I'll stay by your side
 [01:59.69] Even if my body is bleached to the bones
 [02:07.50] I don't want to go through that ever again
-[02:28.50] 
 [02:14.83] So cry no more
 [02:18.56] Oh my beloved
 [02:22.36] Go ahead be proud
