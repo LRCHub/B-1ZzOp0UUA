@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "Call of Silence",
-  "base_artist": "Hiroyuki SAWANO",
-  "createdAt": "2026-03-23T19:57:32.423226Z",
+  "base_artist": "澤野弘之",
+  "createdAt": "2026-03-26T14:41:59.784904Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -133,12 +133,13 @@
       "path": "select/pl_01_Call_of_Silence_澤野弘之.txt"
     },
     {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
+      "id": "localdb_1",
+      "source": "localdb",
       "title": "Call of Silence",
       "artist": "澤野弘之",
-      "has_synced": false,
-      "path": "select/pl_02_Call_of_Silence_澤野弘之.txt"
+      "has_synced": true,
+      "path": "select/localdb_01_Call_of_Silence_澤野弘之.lrc",
+      "repo_name": "IZN5gSZoTHQ"
     }
   ]
 }
